@@ -1,4 +1,4 @@
-# exos-array-c
+# Array-Functions-C
 
 
 # List of the functions to work with arrays in C !
